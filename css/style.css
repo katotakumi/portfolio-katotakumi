@@ -91,7 +91,7 @@ ul, li {
   top: -8px;
   left: -60px;
   font-size: 36px;
-  color: #d59fea;
+  color: #66CCCC;
   -webkit-transform: rotate(-10deg);
   transform: rotate(-10deg);
 }
@@ -99,7 +99,7 @@ ul, li {
 #header .logo-title {
   font-family: 'Oswald', sans-serif;
   font-size: 94px;
-  color: #f39ac7;
+  color: #3366CC;
   line-height: 1;
   letter-spacing: -2px;
 }
@@ -179,7 +179,7 @@ ul, li {
   font-size: 56px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #f39ac7;
+  color:#3366CC;
 }
 
 .section .section-desc {
